@@ -1,6 +1,6 @@
 def my_hash_creator(key, value)
   new_hash = {
-    key: value
+    key => value
   }
 end
 # return a hash that includes the key and value parameters passed into this method
