@@ -2,7 +2,7 @@ def my_hash_creator(key, value)
   new_hash = {
     key: value
   }
-  puts new_hash
+  return new_hash
   # return a hash that includes the key and value parameters passed into this method
 end
 
